@@ -1,3 +1,4 @@
+package Unit1;
 public class EjemploOpLogicos {
     public static void main(String[] args) {
         System.out.println("1) AND = " + (siempreCierto() && siempreFalso() ));

@@ -1,3 +1,4 @@
+package Unit2;
 public class Ejercicio2_4 {
     public static void main(String[] args){
         String apellido1 = String.valueOf(args[0]);
